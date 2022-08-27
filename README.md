@@ -1,6 +1,6 @@
 # 💫About Me :
 I am a web3 and a backend developer who has been building applications on top
-of solana and improving the communitiy. 
+of solana and aptos and improving the communitiy. 
 
 I have developed various APIs on different frameworks like Django and Node.Js
 
