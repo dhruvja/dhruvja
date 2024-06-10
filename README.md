@@ -1,9 +1,3 @@
-# 💫About Me :
-I am a web3 and a backend developer who has been building applications on top
-of solana and aptos and improving the communitiy. 
-
-I have developed various APIs on different frameworks like Django and Node.Js
-
 ## 🌐Socials
  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/dhruv-34) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15815166) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dhruvdjain1) 
 
